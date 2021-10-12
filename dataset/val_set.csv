@@ -1,0 +1,24 @@
+tof_file,aneurysm_file,aneurysm,file,location
+/content/drive/MyDrive/ADAM-Filtered-Data/10006_TOF.nii.gz,/content/drive/MyDrive/ADAM-Filtered-Data/10006_aneurysms.nii.gz,0,10006,[]
+/content/drive/MyDrive/ADAM-Filtered-Data/10031_TOF.nii.gz,/content/drive/MyDrive/ADAM-Filtered-Data/10031_aneurysms.nii.gz,1,10031,"['258, 207, 41, 3.56']"
+/content/drive/MyDrive/ADAM-Filtered-Data/10060F_TOF.nii.gz,/content/drive/MyDrive/ADAM-Filtered-Data/10060F_aneurysms.nii.gz,1,10060F,"['251, 156, 85, 2.33']"
+/content/drive/MyDrive/ADAM-Filtered-Data/10070F_TOF.nii.gz,/content/drive/MyDrive/ADAM-Filtered-Data/10070F_aneurysms.nii.gz,1,10070F,"['361, 225, 63, 2.73']"
+/content/drive/MyDrive/ADAM-Filtered-Data/10013_TOF.nii.gz,/content/drive/MyDrive/ADAM-Filtered-Data/10013_aneurysms.nii.gz,0,10013,[]
+/content/drive/MyDrive/ADAM-Filtered-Data/10059B_TOF.nii.gz,/content/drive/MyDrive/ADAM-Filtered-Data/10059B_aneurysms.nii.gz,1,10059B,"['37, 98, 34, 15.92\n', '126, 44, 78, 6.16']"
+/content/drive/MyDrive/ADAM-Filtered-Data/10011_TOF.nii.gz,/content/drive/MyDrive/ADAM-Filtered-Data/10011_aneurysms.nii.gz,0,10011,[]
+/content/drive/MyDrive/ADAM-Filtered-Data/10071B_TOF.nii.gz,/content/drive/MyDrive/ADAM-Filtered-Data/10071B_aneurysms.nii.gz,1,10071B,"['130, 77, 58, 7.05']"
+/content/drive/MyDrive/ADAM-Filtered-Data/10045F_TOF.nii.gz,/content/drive/MyDrive/ADAM-Filtered-Data/10045F_aneurysms.nii.gz,1,10045F,"['279, 199, 70, 5.58']"
+/content/drive/MyDrive/ADAM-Filtered-Data/10065F_TOF.nii.gz,/content/drive/MyDrive/ADAM-Filtered-Data/10065F_aneurysms.nii.gz,1,10065F,"['298, 214, 31, 9.32']"
+/content/drive/MyDrive/ADAM-Filtered-Data/10048F_TOF.nii.gz,/content/drive/MyDrive/ADAM-Filtered-Data/10048F_aneurysms.nii.gz,1,10048F,"['352, 218, 77, 7.12']"
+/content/drive/MyDrive/ADAM-Filtered-Data/10018_TOF.nii.gz,/content/drive/MyDrive/ADAM-Filtered-Data/10018_aneurysms.nii.gz,0,10018,[]
+/content/drive/MyDrive/ADAM-Filtered-Data/10030_TOF.nii.gz,/content/drive/MyDrive/ADAM-Filtered-Data/10030_aneurysms.nii.gz,1,10030,"['303, 213, 65, 3.84\n', '208, 224, 64, 0.7']"
+/content/drive/MyDrive/ADAM-Filtered-Data/10045B_TOF.nii.gz,/content/drive/MyDrive/ADAM-Filtered-Data/10045B_aneurysms.nii.gz,1,10045B,"['283, 201, 34, 4.9']"
+/content/drive/MyDrive/ADAM-Filtered-Data/10054F_TOF.nii.gz,/content/drive/MyDrive/ADAM-Filtered-Data/10054F_aneurysms.nii.gz,1,10054F,"['257, 201, 70, 1.95']"
+/content/drive/MyDrive/ADAM-Filtered-Data/10003_TOF.nii.gz,/content/drive/MyDrive/ADAM-Filtered-Data/10003_aneurysms.nii.gz,0,10003,[]
+/content/drive/MyDrive/ADAM-Filtered-Data/10061F_TOF.nii.gz,/content/drive/MyDrive/ADAM-Filtered-Data/10061F_aneurysms.nii.gz,1,10061F,"['290, 255, 61, 3.74']"
+/content/drive/MyDrive/ADAM-Filtered-Data/10017_TOF.nii.gz,/content/drive/MyDrive/ADAM-Filtered-Data/10017_aneurysms.nii.gz,0,10017,[]
+/content/drive/MyDrive/ADAM-Filtered-Data/10041_TOF.nii.gz,/content/drive/MyDrive/ADAM-Filtered-Data/10041_aneurysms.nii.gz,1,10041,"['287, 145, 142, 2.35']"
+/content/drive/MyDrive/ADAM-Filtered-Data/10052B_TOF.nii.gz,/content/drive/MyDrive/ADAM-Filtered-Data/10052B_aneurysms.nii.gz,1,10052B,"['221, 230, 49, 6.89\n', '283, 225, 54, 7.36']"
+/content/drive/MyDrive/ADAM-Filtered-Data/10023_TOF.nii.gz,/content/drive/MyDrive/ADAM-Filtered-Data/10023_aneurysms.nii.gz,1,10023,"['238, 263, 48, 1.08']"
+/content/drive/MyDrive/ADAM-Filtered-Data/10021_TOF.nii.gz,/content/drive/MyDrive/ADAM-Filtered-Data/10021_aneurysms.nii.gz,1,10021,"['377, 221, 89, 3.0']"
+/content/drive/MyDrive/ADAM-Filtered-Data/10073F_TOF.nii.gz,/content/drive/MyDrive/ADAM-Filtered-Data/10073F_aneurysms.nii.gz,1,10073F,"['329, 198, 66, 5.41\n', '205, 195, 84, 5.63\n', '240, 323, 35, 5.3']"
