@@ -15,9 +15,11 @@ from datetime import datetime
 
 from monai.losses import DiceCELoss, DiceLoss
 from monai.metrics import DiceMetric
-from monai.networks.nets import UNETR, UNet, DynUNet, SegResNet
+from monai.networks.nets import UNet, SegResNet
 from monai.inferers import sliding_window_inference
 from monai.networks.layers import Norm
+
+from model.unetr import UNETR
 
 import warnings
 warnings.filterwarnings("ignore")
